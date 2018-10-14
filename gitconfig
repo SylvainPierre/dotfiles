@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = sylvain.pierre@gmail.com
+	email = sylvain.pierre@officience.com
 	name = Sylvain Pierre
