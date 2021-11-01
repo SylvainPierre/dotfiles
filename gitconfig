@@ -38,7 +38,7 @@
 [pull]
   rebase = false
 [user]
-	email = Pierre
-	name = Sylvain
+	email = sylvain.pierre@officience.com
+	name = Sylvain Pierre
 [init]
     defaultBranch = master
