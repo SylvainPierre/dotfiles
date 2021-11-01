@@ -11,7 +11,11 @@
 
 [core]
   pager = less -FRSX
+<<<<<<< HEAD
 	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
+=======
+  editor = code
+>>>>>>> f002b0ebfcae3a567bdbb35dfd1d2d7f68d0c1e9
 
 [alias]
   co = checkout
@@ -46,6 +50,12 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+<<<<<<< HEAD
 [user]
 	email = sylvain.pierre@officience.com
 	name = Sylvain Pierre
+=======
+
+[pull]
+  rebase = false
+>>>>>>> f002b0ebfcae3a567bdbb35dfd1d2d7f68d0c1e9
