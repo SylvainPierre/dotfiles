@@ -17,7 +17,14 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"A File Icon",
+		"Babel",
+		"BracketHighlighter",
+		"Emmet",
+		"ERB Snippets",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Vintage",
 	],
 	"remember_open_files": false,
 	"rulers":
@@ -30,5 +37,6 @@
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"use_tab_stops": true,
-	"wordWrap": false
+	"wordWrap": false,
+	"index_files": true,
 }
